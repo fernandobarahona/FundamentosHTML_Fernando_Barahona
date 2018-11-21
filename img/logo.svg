@@ -1,11 +1,12 @@
 <?xml version="1.0"?>
-<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+<svg width="450" height="250" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
  <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
  <g class="layer">
   <title>Layer 1</title>
-  <rect fill="#ffd4aa" height="146.000004" id="svg_8" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="0" stroke-width="5" width="426.999993" x="144.500005" y="82.500003"/>
-  <circle cx="292.5" cy="159.5" fill="#ffaad4" id="svg_1" r="114.039459" stroke="#000000" stroke-width="5"/>
-  <text fill="#000000" font-family="Sans-serif" font-size="134" font-weight="bold" id="svg_3" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(1.07732, 0, 0, 1.0325, -80.4644, -7.42832)" x="415.351959" xml:space="preserve" y="208.657483">FB D</text>
-  <line fill="none" id="svg_4" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="145.5" x2="575.5" y1="242.5" y2="242.5"/>
+  <rect fill="#ffd4aa" height="146.000004" id="svg_8" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="0" stroke-width="5" width="426.999993" x="11.500005" y="48.500003"/>
+  <circle cx="159.5" cy="125.5" fill="#ffaad4" id="svg_1" r="114.039459" stroke="#000000" stroke-width="5"/>
+  <text fill="#000000" font-family="Sans-serif" font-size="134" font-weight="bold" id="svg_3" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(1.07732, 0, 0, 1.0325, -80.4644, -7.42832)" x="291.897462" xml:space="preserve" y="175.727703">FB D</text>
+  <line fill="none" id="svg_4" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="12.5" x2="442.5" y1="208.5" y2="208.5"/>
  </g>
 </svg>
