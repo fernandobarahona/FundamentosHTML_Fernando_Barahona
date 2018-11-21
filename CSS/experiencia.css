@@ -1,0 +1,14 @@
+h2, h3{
+    display: inline;
+}
+nav li, nav ul{
+    display: inline;
+    list-style: none;
+}
+nav{
+    background-color: aquamarine;   
+    padding: 20px;
+}
+footer{
+    background-color: #666666;
+}
