@@ -22,7 +22,8 @@
         </ul>
     </nav>
     <main>
-            <section id="tablaEducacion">
+            <section id="tabla_educacion">
+                <h2>Educacion</h2>
                     <table>
                         <tr>
                             <th>Anio</th>
@@ -44,13 +45,14 @@
                         </tr>
                     </table>
                 </section>
-                <section id="anadirEducacion">
-                    <form action="submit">
+                <section id="anadir_educacion">
+                    <form>
                         <h2>Agregar Estudios</h2><br>
-                        <label for="anio">Anio: </label><input type="date" name="anio" id="anio"><br>
-                        <label for="institucion">Institucion: </label><input type="text" name="institucion" id="institucion"><br>
-                        <label for="lugar">Lugar: </label><input type="text" name="lugar" id="lugar">
-                        <input type="button" value="enviar">
+                        <label for="anio">Anio: </label><input type="select" name="anio" id="anio" min="1950" max="2018"><br>
+                        <label for="institucion">Institucion: </label><input type="text" name="institucion" id="institucion" required><br>
+                        <label for="lugar">Lugar: </label><input type="textarea" name="lugar" id="lugar" required><br>
+                        <label for="completado">Completado: Si<input type="radio" name="completado" id="completado" checked>No<input type="radio" name="completado" id="incompletado"></label><br>
+                        <input type="button" value="Enviar">
                     </form>
                 </section>
         

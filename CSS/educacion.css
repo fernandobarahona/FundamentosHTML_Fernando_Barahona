@@ -9,6 +9,13 @@ nav{
     background-color: aquamarine;   
     padding: 20px;
 }
+
+table, th, td, tr{
+    border: 1px solid black;
+}
+th{
+    background-color: #cccccc;
+}
 footer{
     background-color: #666666;
 }
